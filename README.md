@@ -1,17 +1,11 @@
 <div align="center">
 
-```
-██████╗ ███████╗██████╗ ██████╗  ██████╗
-██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗
-██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║
-██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║
-██║     ███████╗██████╔╝██║  ██║╚██████╔╝
-╚═╝     ╚══════╝╚═════╝ ╚═╝  ╚═╝ ╚═════╝
-```
+## Hi, I'm Pedro Veloso 👋
+### Data Scientist · ML Engineer · AI Researcher
 
-### turning data into decisions 📊
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/portfolio-pedrorveloso.dev-6e40c9?style=flat-square&logo=google-chrome&logoColor=white)](https://www.pedrorveloso.dev)
+[![Portfolio](https://img.shields.io/badge/🌐_pedrorveloso.dev-6e40c9?style=flat-square&logoColor=white)](https://www.pedrorveloso.dev)
 [![GitHub followers](https://img.shields.io/github/followers/pedroveloso25?label=followers&style=flat-square&color=6e40c9)](https://github.com/pedroveloso25)
 [![Profile views](https://komarev.com/ghpvc/?username=pedroveloso25&style=flat-square&color=6e40c9)](https://github.com/pedroveloso25)
 
@@ -94,9 +88,8 @@ pedro = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedroveloso25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true)](https://github.com/pedroveloso25)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroveloso25&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/pedroveloso25)
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedroveloso25&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedroveloso25&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook&langs_count=6"/>
 
 </div>
 
