@@ -22,8 +22,8 @@ pedro = {
     "education":  "Data Science for Business @ UFPB",
     "research":   "Member @ TAIL — Technology & Artificial Intelligence League",
     "focus":      ["Machine Learning", "Data Analysis", "NLP", "AI Agents"],
-    "philosophy": "data is the raw material, curiosity is the fuel",
-    "status":     "always learning... ☕"
+    "philosophy": "data-driven, outcome-focused",
+    "status":     "learning in public"
 }
 ```
 
