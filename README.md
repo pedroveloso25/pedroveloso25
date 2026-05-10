@@ -2,7 +2,7 @@
 
 I'm a Data Science for Business student at UFPB and a member of **TAIL — Technology & Artificial Intelligence League**, where I develop applied research and real-world AI projects.
 
-I'm passionate about turning messy data into clear decisions — whether through machine learning models, data pipelines, or intelligent agents. I enjoy working at the intersection of business impact and technical depth.
+I'm passionate about turning messy data into clear decisions, whether through machine learning models, data pipelines, or intelligent agents. I enjoy working at the intersection of business impact and technical depth.
 
 ---
 
