@@ -6,13 +6,6 @@ At TJPB I work on data modeling and warehousing for judicial statistics, plus pe
 
 ---
 
-## 🔭 Currently working on
-
-- **Computer vision for basketball** — automated game analysis for Federação Paraibana de Basquete championships (TAIL)
-- **Judicial data warehouse** — dimensional modeling and statistics pipelines over CNJ/DataJud court data (TJPB)
-
----
-
 ## 🧠 Stack
 
 **Languages** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
